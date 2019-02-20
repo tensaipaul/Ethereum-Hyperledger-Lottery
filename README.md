@@ -7,8 +7,7 @@ Lotteries are an excellent use case for Ethereum. This repo will show the proces
 ## Ethereum
 Following are the process diagrams of the lottery games.
 
-* [Simple Lottery]
-(https://github.com/tensaipaul/Ethereum-Hyperledger-Lottery/blob/master/Ethereum%20Workflow%20Design/Simple-lottery.jpg) - This simple-lottery is nonrecurring, uses blockhashes for random numbers, and has only
+* [Simple Lottery](https://github.com/tensaipaul/Ethereum-Hyperledger-Lottery/blob/master/Ethereum%20Workflow%20Design/Simple-lottery.jpg) - This simple-lottery is nonrecurring, uses blockhashes for random numbers, and has only
 one winner.
 
 * [Recurring Lottery](https://github.com/tensaipaul/Ethereum-Hyperledger-Lottery/blob/master/Ethereum%20Workflow%20Design/RecurringLottery(eth).jpg) - The
@@ -17,8 +16,7 @@ time the old one closes. It will also allow users to purchase multiple
 tickets in one transaction instead of just one and add a couple of security
 improvements
 
-* [RNG Lottery]
-(https://github.com/tensaipaul/Ethereum-Hyperledger-Lottery/blob/master/Ethereum%20Workflow%20Design/RNG%20Lottery.jpg) - The RNG Lottery is non-recurring, the numbers are randomly generated. Also after the round all users must reveal their tickets or else it will drop.
+* [RNG Lottery](https://github.com/tensaipaul/Ethereum-Hyperledger-Lottery/blob/master/Ethereum%20Workflow%20Design/RNG%20Lottery.jpg) - The RNG Lottery is non-recurring, the numbers are randomly generated. Also after the round all users must reveal their tickets or else it will drop.
 
 
 * [Powerball](https://github.com/tensaipaul/Ethereum-Hyperledger-Lottery/blob/master/Ethereum%20Workflow%20Design/Ethereum-PowerBall-Flow-Design.jpg) - In Powerball, the user picks six numbers per ticket. The first five
